@@ -3,7 +3,7 @@
 * e-mail: yuginboy@gmail.com
 * Last modified: 30.08.2020
 '''
-from config import *
+from settings import *
 from pkg_lib.utils import *
 from pprint import pprint
 

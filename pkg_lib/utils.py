@@ -4,7 +4,7 @@
 * Last modified: 31.08.2020
 '''
 from tempfile import NamedTemporaryFile
-from config import *
+from settings import *
 import re
 from pkg_lib.dir_and_file_operations import *
 
