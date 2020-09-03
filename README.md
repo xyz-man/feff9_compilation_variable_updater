@@ -88,11 +88,11 @@ the lines below describe the internal procedure of the program.
       
 ### 5. Run
 
-Inside root project directory (`.feff9_compilation_variable_updater/`) activate local virtual environments:
+Inside the root project directory (`.feff9_compilation_variable_updater/`) activate local virtual environments:
 
     $ source venv/bin/activate
     
-and run main.py:
+and run `main.py` file:
 
     $ python main.py
     
